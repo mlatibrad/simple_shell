@@ -20,7 +20,7 @@ int is_cmd(info_t *info, char *path)
 }
 
 /**
- * duplicateCharacters - duplicate characters
+ * duplicateCharacters - Function to duplicate characters
  * Return: pointer to new buffer
  */
 char *duplicateCharacters(char *pathstr, int start, int stop)

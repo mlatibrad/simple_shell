@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * _myenv - prints the current environment
+ * _myenv - Function to print working environmen
  * Return: 0
  */
 int _myenv(info_t *info)

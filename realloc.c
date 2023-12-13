@@ -14,7 +14,7 @@ char *_memset(char *s, char b, unsigned int n)
 }
 
 /**
- * freeMemory - frees a string of strings
+ * freeMemory - Function to  free a string of strings
  */
 void freeMemory(char **pp)
 {

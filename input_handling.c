@@ -140,7 +140,7 @@ int _getline(info_t *info, char **ptr, size_t *length)
 }
 
 /**
- * HandleSIGINT - blocks ctrl-C
+ * HandleSIGINT - Function to block command ctrl-C
  * Return: void
  */
 void HandleSIGINT(__attribute__((unused))int sig_num)

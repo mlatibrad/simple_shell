@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * list_len - determines length of list
+ * list_len - Function to obtain length of list
  * Return: size of list
  */
 size_t list_len(const list_t *h)

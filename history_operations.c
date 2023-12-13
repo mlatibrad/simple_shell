@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * fetchHistoryFile - gets the history file
+ * fetchHistoryFile - Obtains the history file
  */
 
 char *fetchHistoryFile(info_t *info)
