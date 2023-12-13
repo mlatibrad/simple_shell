@@ -1,1 +1,1 @@
-THE GATES OF SHELL!
+Simple shell team project
